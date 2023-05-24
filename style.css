@@ -1,0 +1,14 @@
+#rock { 
+	background-color: #ff0000;
+	color:white;
+ }
+
+ #paper {
+ 	backgroud-color: #00ff00;
+ 	color: black;
+ }
+
+ #scissor {
+ 	background-color: #0000ff;
+ 	color:white;
+ }
